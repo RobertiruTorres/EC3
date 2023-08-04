@@ -1,0 +1,84 @@
+{
+  "platos": [
+    {
+      "nombreImagen": "ceviche",
+      "nombre": "Ceviche",
+      "descripcion": "El ceviche es un platillo peruano a base de pescado o mariscos marinados en jugo de limón, acompañados de cebolla, ají y cilantro.",
+      "ingredientesPrincipales": "Pescado o mariscos, limón, cebolla, ají, cilantro",
+      "preparacion": "Lava y corta el pescado o mariscos en cubos, luego marínalos en el jugo de limón. Agrega cebolla, ají y cilantro picado, sal y pimienta al gusto. Sirve bien frío.",
+      "precio": "25.00"
+    },
+    {
+      "nombreImagen": "lomo_saltado",
+      "nombre": "Lomo Saltado",
+      "descripcion": "El lomo saltado es un delicioso plato peruano que combina trozos de carne de res salteados con cebolla, tomate y ají amarillo.",
+      "ingredientesPrincipales": "Carne de res, cebolla, tomate, ají amarillo, papas fritas",
+      "preparacion": "Saltea la carne de res con cebolla, tomate y ají amarillo. Agrega papas fritas y sirve acompañado de arroz.",
+      "precio": "30.00"
+    },
+    {
+      "nombreImagen": "aji_de_gallina",
+      "nombre": "Aji de Gallina",
+      "descripcion": "El aji de gallina es un plato peruano a base de gallina desmenuzada y una salsa cremosa de ají amarillo y nueces.",
+      "ingredientesPrincipales": "Gallina, ají amarillo, nueces, leche evaporada",
+      "preparacion": "Cuece la gallina y desmenúzala. Prepara una salsa con ají amarillo, nueces y leche evaporada. Mezcla la gallina con la salsa y sirve con arroz y papas cocidas.",
+      "precio": "28.00"
+    },
+    {
+      "nombreImagen": "causa_rellena",
+      "nombre": "Causa Rellena",
+      "descripcion": "La causa rellena es un platillo peruano a base de papa amarilla machacada y rellena de pollo, atún o mariscos.",
+      "ingredientesPrincipales": "Papa amarilla, pollo, atún o mariscos, ají amarillo, limón",
+      "preparacion": "Cocina las papas amarillas y machácalas. Prepara una mezcla de pollo, atún o mariscos con ají amarillo y limón. Rellena las papas con esta mezcla y sirve frío.",
+      "precio": "22.00"
+    },
+    {
+      "nombreImagen": "anticuchos",
+      "nombre": "Anticuchos",
+      "descripcion": "Los anticuchos son brochetas de carne de res marinadas en una salsa especial a base de ají panca y vinagre.",
+      "ingredientesPrincipales": "Carne de res, ají panca, vinagre, comino",
+      "preparacion": "Corta la carne de res en cubos y marínala en una mezcla de ají panca, vinagre y comino. Ensarta los cubos de carne en brochetas y asa hasta que estén dorados.",
+      "precio": "18.00"
+    },
+    {
+      "nombreImagen": "papa_a_la_huancaina",
+      "nombre": "Papa a la Huancaina",
+      "descripcion": "La papa a la huancaina es un platillo peruano que consiste en papas cocidas bañadas en una salsa a base de ají amarillo y queso.",
+      "ingredientesPrincipales": "Papas, ají amarillo, queso, leche evaporada",
+      "preparacion": "Cocina las papas y córtalas en rodajas. Prepara una salsa con ají amarillo, queso y leche evaporada. Baña las papas con la salsa y decora con huevo y aceitunas.",
+      "precio": "15.00"
+    },
+    {
+      "nombreImagen": "rocoto_relleno",
+      "nombre": "Rocoto Relleno",
+      "descripcion": "El rocoto relleno es un plato peruano que consiste en pimientos rocotos rellenos de carne, cebolla y queso.",
+      "ingredientesPrincipales": "Rocotos, carne de res, cebolla, queso",
+      "preparacion": "Lava los rocotos y quita las semillas. Rellena con una mezcla de carne de res, cebolla y queso. Hornea hasta que estén dorados.",
+      "precio": "26.00"
+    },
+    {
+      "nombreImagen": "chupe_de_camarones",
+      "nombre": "Chupe de Camarones",
+      "descripcion": "El chupe de camarones es una sopa peruana a base de camarones, papa, choclo y leche.",
+      "ingredientesPrincipales": "Camarones, papa, choclo, leche, queso",
+      "preparacion": "Cocina los camarones con papa y choclo en una base de leche y queso. Sirve caliente.",
+      "precio": "32.00"
+    },
+    {
+      "nombreImagen": "arroz_con_pollo",
+      "nombre": "Arroz con Pollo",
+      "descripcion": "El arroz con pollo es un platillo peruano que consiste en arroz cocido con pollo, ají amarillo y verduras.",
+      "ingredientesPrincipales": "Pollo, arroz, ají amarillo, zanahoria, arvejas",
+      "preparacion": "Cocina el pollo con ají amarillo y verduras. Agrega el arroz y cocina hasta que esté suave. Sirve caliente.",
+      "precio": "23.00"
+    },
+    {
+      "nombreImagen": "tiradito",
+      "nombre": "Tiradito",
+      "descripcion": "El tiradito es un plato peruano similar al ceviche, pero el pescado se corta en tiras y se sirve con una salsa diferente.",
+      "ingredientesPrincipales": "Pescado, limón, ají amarillo, ajo",
+      "preparacion": "Corta el pescado en tiras y marínalo en jugo de limón con ají amarillo y ajo. Sirve acompañado de una salsa especial.",
+      "precio": "29.00"
+    }
+  ]
+}
